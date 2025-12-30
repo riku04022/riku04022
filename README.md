@@ -9,9 +9,10 @@ Backend Engineer working with modern technologies.
 
 ### アスクル株式会社 / Askul Corporation
 **バックエンドエンジニア / Backend Engineer**  
-*2024年4月 - 現在 / April 2024 - Present*
+*2024年4月 - 現在 / April 2024 - Present*  
+🔗 [www.askul.co.jp/corp](https://www.askul.co.jp/corp/)
 
-### ペンティオ株式会社 / Pentio Inc.
+### ペンティオ株式会社 / Pentio Ltd.
 **サポートエンジニア インターン / Support Engineer Intern**  
 *2022年5月 - 2024年3月 / May 2022 - March 2024*  
 🔗 [pentio.com](https://pentio.com)
