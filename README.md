@@ -1,16 +1,26 @@
-## Hi there 👋
+# 澤田陸 / Riku Sawada
 
-<!--
-**riku04022/riku04022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+バックエンドエンジニアとして活動しています。  
+Backend Engineer working with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience
+
+### アスクル株式会社 / Askul Corporation
+**バックエンドエンジニア / Backend Engineer**  
+*2024年4月 - 現在 / April 2024 - Present*
+
+### ペンティオ株式会社 / Pentio Inc.
+**サポートエンジニア インターン / Support Engineer Intern**  
+*2022年5月 - 2024年3月 / May 2022 - March 2024*  
+🔗 [pentio.com](https://pentio.com)
+
+## 🏆 Certifications
+
+View my certifications and badges:  
+[Credly Profile](https://www.credly.com/users/riku-sawada/badges)
+
+## 📫 Contact
+
+Feel free to reach out via GitHub!
