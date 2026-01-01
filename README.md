@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me
 
-バックエンドエンジニアとして活動しています。  
 Backend Engineer working with modern technologies.
 
 ## 💼 Work Experience
